@@ -18,7 +18,7 @@ KAPTION/
 │   ├── img4.jpg
 │   └── img5.jpg
 │
-├── app.py
+├── main.py
 ├── feature_extractor.keras
 ├── kaption.png
 ├── main.ipynb
